@@ -1,4 +1,4 @@
-# Write a factorial programme in python ? 
+# Write a factorial programe in python ? 
 
 fact=int(input("Enter your number: "))  # fact is a variable
 f=1       # f is a initial starting  value
