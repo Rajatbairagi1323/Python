@@ -1,4 +1,4 @@
-# Programme to find upper case, lower case, symbol for single character value with the help of ASCII table ? 
+# Program to find upper case, lower case, symbol for single character value with the help of ASCII table ? 
 
 value=input("Enter: ")   # value is a variable 
 if type(int(value))==int :       # == compare
