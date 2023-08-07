@@ -1,6 +1,6 @@
 # Introduction of python
 
-Python is a dynamic, interpreted (bytecode-compiled) language. There are no type declarations of variables, parameters, functions, or methods in source code. This makes the code short and flexible, and you lose the compile-time type checking of the source code.
+This repository serves as a resource for learning Python programming concepts. 
 
 
 
@@ -16,8 +16,8 @@ Python is a dynamic, interpreted (bytecode-compiled) language. There are no type
 *figure out who has
 the sent the greatest number of mail messages.*
 
-##  **Factorial programe**
-*Programe of factorial by taking input as a number* 
+##  **Factorial program**
+*Program of factorial by taking input as a number* 
 
 ## **Find upper case and lower case by single character**
-*Programe to find upper case, lower case, symbol for single character value with the help of ASCII table.*
+*Program to find upper case, lower case, symbol for single character value with the help of ASCII table.*
