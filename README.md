@@ -16,8 +16,8 @@ Python is a dynamic, interpreted (bytecode-compiled) language. There are no type
 *figure out who has
 the sent the greatest number of mail messages.*
 
-##  **Factorial programme**
-*Programme of factorial by taking input as a number* 
+##  **Factorial programe**
+*Programe of factorial by taking input as a number* 
 
 ## **Find upper case and lower case by single character**
-*Programme to find upper case, lower case, symbol for single character value with the help of ASCII table.*
+*Programe to find upper case, lower case, symbol for single character value with the help of ASCII table.*
